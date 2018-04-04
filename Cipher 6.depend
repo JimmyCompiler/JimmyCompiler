@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519306708 source:d:\cipher 6\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+
